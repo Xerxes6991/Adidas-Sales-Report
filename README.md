@@ -24,4 +24,12 @@ The following steps were taken in the data cleaning stage:
 
 ### Exploratory Data Analysis
 
-
+EDA involved exploring the sales data 
+- Created a sales dashboard displaying key metrics such as total revenue (sales), quantity sold, average price at which a unit of the product is sold, number of transactions done and profit made.
+- Explored regional sales distribution using shape maps to visualize sales by geographical locations.
+- Investigated sales seasonality by analyzing monthly and yearly sales trends using time intelligence functions and slicers.
+- Visualized sales performance over time by product category using slicers, cards and area charts to analyze sales in a period of time.
+- Visualized sales trends over time using slicers and area charts to identify seasonal patterns and trends.
+- Analyzed sales performance by product category, retailer and region using bar charts to identify top-selling categories and underperforming ones.
+- Examined sales by sales channel (e.g., online, outlet, in-store) using slicers in comparison to other charts created to understand the effectiveness of each channel.
+- 
