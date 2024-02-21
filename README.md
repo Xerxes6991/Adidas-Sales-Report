@@ -24,7 +24,7 @@ The following steps were taken in the data cleaning stage:
 
 ### Exploratory Data Analysis
 
-EDA involved exploring the sales data 
+EDA involved: 
 - Created a sales dashboard displaying key metrics such as total revenue (sales), quantity sold, average price at which a unit of the product is sold, number of transactions done and profit made.
 - Explored regional sales distribution using shape maps to visualize sales by geographical locations.
 - Investigated sales seasonality by analyzing monthly and yearly sales trends using time intelligence functions and slicers.
@@ -32,4 +32,14 @@ EDA involved exploring the sales data
 - Visualized sales trends over time using slicers and area charts to identify seasonal patterns and trends.
 - Analyzed sales performance by product category, retailer and region using bar charts to identify top-selling categories and underperforming ones.
 - Examined sales by sales channel (e.g., online, outlet, in-store) using slicers in comparison to other charts created to understand the effectiveness of each channel.
-- 
+- Created an Area chart to visualize the trend of monthly profit and total sales over time, enabling the identification of any seasonal patterns or trends.
+- Conducted a year-over-year analysis by adding a slicer to compare the monthly profit and total sales across different years, facilitating trend analysis and year-on-year comparisons.
+- Created a Line chart to visualize the trend of monthly sales and total sales over time, enabling the identification of any seasonal patterns or trends.
+- Conducted a year-over-year analysis by adding a slicer to compare the monthly sales and total sales across different years, facilitating trend analysis and year-on-year comparisons.
+- Utilized a DAX measure to calculate profit margin ratios and compare them with the average operating margin, enabling assessment of profitability and efficiency in converting sales into profit.
+- Utilized a Line and Stacked column chart to compare the trend of monthly profit against the average operating margin to provide insights into profitability
+- Utilized a slicer to filter the data by specific retailer, sales channels (method) or year enabling focused analysis and comparison of monthly profit and average operating margin within selected segments.
+
+### Results
+
+    
