@@ -45,11 +45,16 @@ EDA involved:
 This summary provides a comprehensive overview of sales performance across different sales methods over time. The analysis results are summarized as follows:
 
 - The analysis indicates that Men's street footwear is the top-selling category across every sales channel, while women's athletic footwear is the least-selling category across all sales channel.
+- The product category breakdown revealed that the most popular category was Men's street footwear, with 23.21% of total sales, followed by Women's apparel with 19.90%, followed by Men's athletic footwear with 17.08%, followed by Women's street footwear with 14.22%, followed by Men's apparel with 13.75% and Women's Athletic footwear with 11.85%.
+- The product category that had the highest profit margin was Men's street footwear, with 39.65% of the revenue being converted to profit, followed by Women's apparel with 38.34%, followed by Women's athletic footwear with 36.56%, followed by Men's apparel with 36.18%, followed by Women's street footwear with 35.23% and Men's athletic footwear with 33.74%.
+- 
+- 
 - From examining sales by retailers, West Gear has the highest sales In-store while Footlocker has the highest sales Online and in Outlets
 - After analysis, insights derived show that West Gear and Footlocker were the highest performing retailers among all retailers. They accounted for 27% and 24.46% of the total sales volume respectively while Amazon was the lowest performing retailer with 8.63% of the total sales volume.
--  This analysis shows that In-store sales were the most profitable while online sales had the least profit. 
+-  Based on the analysis, the In-store sales channel generated the most revenue, with $356.64 million in sales, followed by the Outlet sales channel with $295.59 million and the Online sales channel with $247.67 million. However, the Online sales channel had the highest profit margin, with 38.99% of the revenue being converted into profit, followed by the Outlet sales channel with 36.53% and the In-store sales channel with 35.78%.
+- By examining sales distribution geographically, it was discovered that the top three regions by sales revenue were West, North East and South East accounting for 30%, 21.1% and 17.1% of the total sales respectively. However, the regions with the highest growth rate were the Midwest, South and South East with sales increase percentage of 1,757%, 380% and 306.25% respectively.
+- In both years (2020 & 2021), the region with the lowest profit margin was the West, with 31.82% and 33.74% of the sales revenue being converted to profit respectively while the highest profit margin was the South, with 38.69% & 43.02% respectively.
 - 
-
 ### Recommendations
 - The sales teamshould focus on increasing In-store sales and improving online sales.
 - Implement reward or incentive programs for the highest grossing retailers (West Gear and Footlocker) to recognize and incentivize their performance. Partnership with these retailers on collaborative marketing initiatives such as co-branded campaigns or sponsorships to increase brand visibility could also ensure more demand for products.
