@@ -1,5 +1,7 @@
-# Adidas-Sales-Report
+# Adidas Sales Report
 A comprehensive analysis of Adidas sales data, providing insights into product performance and market trends
+
+[Link to interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTgyYzJhMmYtODVmMy00NGVlLWI3ZDMtNTVmZjM0ZTExM2RhIiwidCI6ImI0MTlmYmViLTcwZDYtNGVjNC1iMjQ4LTBmYTEwZTY1MGQxMiIsImMiOjN9)
 
 ### Project Overview
 
@@ -70,4 +72,4 @@ This summary provides a comprehensive overview of sales performance across diffe
 - Capitalize on the popularity and demand of the high-selling products, promote and market these products by creating compelling and consistent messages and campaigns that highlight their value proposition and differentiation.
 - Feedback and suggestions from the retailers would help to evaluate and diagnose the reasons for low-selling products' performance. Any of these reasons could be high price, low demand or strong competition.
 - Online sales can be improved by driving more traffic by implementing effective SEO, SEM and SMM strategies, building trust and credibility with online customers by displaying customer reviews and testimonials, ratings and guarantees concerning the products to be sold. Customer retention and loyalty can be increased by offering personalized recommendations, discounts and rewards. Excellent customer service should also be made a priority.
--    
+   
